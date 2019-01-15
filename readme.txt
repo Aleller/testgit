@@ -1,2 +1,2 @@
-git is conribute
-git is free
+git is a distributed
+git is free gpl
