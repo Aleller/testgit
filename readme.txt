@@ -1,2 +1,2 @@
-git VC
-git free
+git is conribute
+git is free
